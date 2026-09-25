@@ -84,7 +84,7 @@ Open `NEW.IPYNB` and run the notebook cells.
 
 7. Similarity Calculation: Calculate Cosine Similarity between movie vectors.
 
-8. Recommendation: Find movies with the highest similarity scores and display the recommended movie titles.
+8. Recommendation: Find movies with the highest similarity scores and display the recommended movie titles and homepage URL.
 
 ##  Machine Learning Approach
 
